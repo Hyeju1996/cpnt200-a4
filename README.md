@@ -1,5 +1,11 @@
 # my-blog
 
+- Authur: <a href="https://github.com/Hyeju1996">Hyeju Hong</a>
+
+- instructor: <a href="https://github.com/lilyx13">Ashlyn knox</a>
+
+- depolyed to : <a href="https://determined-stonebraker-503526.netlify.app/">netify</a> & <a href="https://github.com/Hyeju1996/cpnt200-a4">GitHub repo</a>
+
 ## Build Setup
 
 ```bash
